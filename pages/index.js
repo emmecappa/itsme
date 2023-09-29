@@ -5,7 +5,7 @@ function Home() {
 
   return (
     <main>
-      Hello my name is Marco Casto, but everybody calls me MK.
+      <h1 className="text-center font-bold">Hello my name is Marco Casto, but everybody calls me MK.</h1>
     </main>
   )
 }
